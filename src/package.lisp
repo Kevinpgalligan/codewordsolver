@@ -1,0 +1,2 @@
+(defpackage :codewordsolver
+  (:use :cl))
