@@ -26,7 +26,6 @@ CODEWORDSOLVER> (solve-codeword '((9 25 16 14 8 1 19)
                                   (10 21 6 2 8 11 23)
                                   (24 21 6 6 25 2 21 4 23)
                                   (11 8 6 4 8)
-                                  (9 25 16 14 8 1 19)
                                   (5 13 21 15 11)
                                   (6 25 2 11)
                                   (2 25 15 11 13 26)
@@ -50,10 +49,9 @@ CODEWORDSOLVER> (solve-codeword '((9 25 16 14 8 1 19)
                                 (load-words "~/proyectos/codewordsolver/words.txt"))
 ((7 . #\j) (13 . #\l) (5 . #\b) (17 . #\v) (22 . #\z) (11 . #\k) (12 . #\x)
  (10 . #\f) (3 . #\h) (20 . #\g) (4 . #\m) (2 . #\s) (6 . #\r) (21 . #\o)
- (24 . #\w) (19 . #\t) (9 . #\p) (23 . #\e) (25 . #\i) (1 . #\n) (8 . #\a)
- (26 . #\y) (18 . #\d) (14 . #\u) (15 . #\c) (16 . #\q))
+ (24 . #\w) (19 . #\t) (16 . #\q) (9 . #\p) (23 . #\e) (25 . #\i) (1 . #\n)
+ (8 . #\a) (26 . #\y) (18 . #\d) (14 . #\u) (15 . #\c))
 ("piquant" "fixture" "kazoo" "woven" "cyanide" "weigh" "remit" "forsake"
- "worrisome" "karma" "piquant" "block" "risk" "sickly" "all" "arms" "star"
- "thwack" "cud" "jerk" "elf" "rapt" "our" "kowtow" "smug" "diva" "ore" "kimono"
- "nigh")
+ "worrisome" "karma" "block" "risk" "sickly" "all" "arms" "star" "thwack" "cud"
+ "jerk" "elf" "rapt" "our" "kowtow" "smug" "diva" "ore" "kimono" "nigh")
 ```
